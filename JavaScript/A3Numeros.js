@@ -12,5 +12,5 @@ const media = total/ (peso1 + peso2)
 
 console.log(media.toFixed(2)) // para ter a penas 2 casas dps da virgula: toFixed(2)
 
-console.log(media.toString)
+console.log(media.toString) // transforma a media em String
 console.log(typeof media)
